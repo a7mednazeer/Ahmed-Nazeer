@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/th.jpeg" type="image/x-icon">
+    <title>Task 1</title>
+</head>
+<body style="background-color: rgb(2, 0, 41);">
+
+    <span style="color: rgb(255, 255, 255);">High on a hill above Tenby harbour stand the remains..</span>
+
+    <img src="img/Tenby-9831.jpg" width="200px" height="350px" alt="Tenby Castle">
+
+    <span style="color: rgb(255, 255, 255);">High on a hill above Tenby harbour stand the remains..</span>
+
+    <img src="img/Tenby-9831.jpg" width="200px" height="350px" alt="Tenby Castle">
+
+    <span style="color: rgb(255, 255, 255);">High on a hill above Tenby harbour stand the remains..</span>
+
+    <img src="img/Tenby-9831.jpg" width="200px" height="350px" alt="Tenby Castle">
+
+    <span style="color: rgb(255, 255, 255);">High on a hill above Tenby harbour stand the remains..</span>
+
+    <img src="img/Tenby-9831.jpg" width="200px" height="350px" alt="Tenby Castle">
+
+    <!-- <audio autoplay>
+        <source src="ＣＡＬＭ　ＹＯＵＲ　ＭＩＮＤ.mp3" type="audio/mp3">
+    </audio> -->
+</body>
+</html>
