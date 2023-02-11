@@ -1,0 +1,228 @@
+body {
+    background-color: rgb(1, 1, 64);
+    margin: 30px;
+}
+
+
+
+.pp {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 40%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.hh {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 35%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.h2 {
+    padding-left: 45px;
+}
+.h3 {
+    padding-left: 80px;
+}
+.h4 {
+    padding-left: 100px;
+}
+.h5 {
+    padding-left: 110px;
+}
+.h6 {
+    padding-left: 125.5px;
+}
+
+
+
+.ff {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    /* padding-left: 40%; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mb-1 {
+    padding-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 40%;
+}
+.mb-2 {
+    margin-bottom: 40px;
+    margin-left: 40%;
+}
+.mb-3 {
+    margin-bottom: 30px;
+    margin-left: 50%;
+    color: white;
+    background-color: black;
+    border-width: 5px;
+    border-color: black;
+}
+.fmb-3 {
+    color: white;
+}
+
+
+
+.mf {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 42%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.tt {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.table {
+    border-style: groove;
+    border-color: white;
+    color: white;
+}
+.td {
+    padding-left: 10%;
+}
+.td1 {
+    padding-left: 14%;
+}
+
+
+
+.bb{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: white;
+    background-color: black;
+    border-width: 10px;
+    border-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.pa {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 45%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.uu {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.yy {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 30%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.vv {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 30%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.aa {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 38%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.ww {
+    border-style: groove;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding-left: 28%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.word {
+    padding-top: 30px;
+    padding-left: 200px;
+}

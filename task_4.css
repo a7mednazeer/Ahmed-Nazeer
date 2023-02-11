@@ -1,0 +1,62 @@
+.register {
+    color: rgb(255, 0, 0);
+    margin: 20px;
+    margin-left: 46%;
+    padding-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pp {
+    background-color: rgb(12, 0, 73);
+}
+
+.mb-1 {
+    padding-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 40%;
+}
+
+.mb-2 {
+    margin-bottom: 40px;
+    margin-left: 40%;
+}
+
+.mb-3 {
+    margin-bottom: 30px;
+    margin-left: 47%;
+    color: white;
+    background-color: black;
+    border-width: 7px;
+    border-color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fmb-3 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#nnn {
+    margin-right: 91px;
+}
+#aaa {
+    margin-right: 104px;
+}
+#eee {
+    margin-right: 88px;
+}
+#ppp {
+    margin-right: 65px;
+}
+#pppnnn {
+    margin-right: 33px;
+}
+#ddd {
+    margin-right: 99px;
+}
+#ggg {
+    margin-right: 75px;
+}
+#yyyppp {
+    margin-right: 59px;
+}
